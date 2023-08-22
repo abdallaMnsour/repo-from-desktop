@@ -6,3 +6,4 @@ function hello ($name) : string {
 }
 
 echo hello("abdalla");
+?>
